@@ -1,0 +1,6 @@
+E:\itransition\task3\task3\task3\bin\Debug\task3.exe.config
+E:\itransition\task3\task3\task3\bin\Debug\task3.exe
+E:\itransition\task3\task3\task3\bin\Debug\task3.pdb
+E:\itransition\task3\task3\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+E:\itransition\task3\task3\task3\obj\Debug\task3.exe
+E:\itransition\task3\task3\task3\obj\Debug\task3.pdb
